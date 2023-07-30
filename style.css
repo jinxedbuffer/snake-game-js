@@ -1,5 +1,5 @@
-canvas {
-    display: flex;
+body {
+    display: block;
     justify-content: center;
     align-items: start;
     height: 100vh;
